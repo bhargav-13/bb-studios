@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# BB Studios - Coming Soon Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive coming soon page for BB Studios featuring a countdown timer and email subscription functionality. This project was built with React and Firebase.
 
 ## Available Scripts
 
